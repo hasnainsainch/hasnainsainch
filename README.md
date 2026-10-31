@@ -43,6 +43,31 @@
 ### 📊 Engineering Metrics
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasnainsainch&show_icons=true&theme=dark" alt="GitHub Stats" />
+<h2 align="center">🤖 Data Science & AI Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<h2 align="center">💻 Programming Languages</h2>
+
+<p align="center">Python — 80%</p>
+<img src="https://progress-bar.xyz/75/?title=Python&width=500&color=3776AB" width="100%">
+
+<p align="center">SQL — 65%</p>
+<img src="https://progress-bar.xyz/65/?title=SQL&width=500&color=4479A1" width="100%">
+
+<p align="center">HTML — 60%</p>
+<img src="https://progress-bar.xyz/80/?title=HTML&width=500&color=E34F26" width="100%">
+
+<p align="center">CSS — 55%</p>
+<img src="https://progress-bar.xyz/65/?title=CSS&width=500&color=1572B6" width="100%">
+
+<p align="center">JavaScript — 45%</p>
+<img src="https://progress-bar.xyz/45/?title=JavaScript&width=500&color=F7DF1E" width="100%">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnainsainch&layout=compact&theme=dark" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainsainch&theme=dark" alt="GitHub Streak" />
