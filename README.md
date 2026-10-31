@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hassnain%20Sainch&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+Developer;Aspiring+AI+Engineer;Machine+Learning+Enthusiast"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=100&section=footer"/>
 
 ## Hi there 👋
 
