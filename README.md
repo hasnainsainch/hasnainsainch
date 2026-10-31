@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-### Hi there, I'm Hassnain Sainch 👋
+### I'm Hassnain Sainch 👋
 
 **Data Scientist and AI Engineer**
 
@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>](https://hassnain-sainch-portfolio.vercel.app) [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/hasnainsainch) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/www.linkedin.com/in/hassnain-sainch-76a76729a) [<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:hasnainrustam8@gmail.com)
 
 ### Tech Stack
-
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
+</div>
 ### 📊 Engineering Metrics
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasnainsainch&show_icons=true&theme=dark" alt="GitHub Stats" />
