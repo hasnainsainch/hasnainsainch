@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hassnain%20Sainch&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</div>
+
+
 ## Hi there 👋
 
 ### Hi there, I'm Hassnain Sainch 👋
